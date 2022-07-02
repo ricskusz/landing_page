@@ -1,2 +1,3 @@
 # landing_page
-landing-page
+
+Landing page.
