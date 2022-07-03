@@ -100,3 +100,51 @@ body{
     background-color: grey;
     color: white;
 }
+
+/*section*/
+
+.section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    gap: 70px;
+}
+
+.section-item-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    gap: 50px;
+}
+
+.section-header{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.section-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.section-sub-item-img{
+    height: 300px;
+    border: 5px solid #3882F6;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.text{
+    width: 50%;
+    text-align: center;
+}
+
+/*section-2*/
+
